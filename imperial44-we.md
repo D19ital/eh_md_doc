@@ -1,6 +1,6 @@
 ---
 title: "Imperial44 – Wireless Edition"
-tags: ["docs", "Imperial44 – Wireless Edition"]
+tags: ["docs", "imperial44-we"]
 ---
 
 ![image](/images/layouts/imperial44_ru.png)<!-- обновить иллюстрацию -->
