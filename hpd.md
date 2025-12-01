@@ -17,12 +17,14 @@ tags: ["docs", "hpd"]
 
 <details>
   <summary>Изменение DPI в Vial</summary>
+
   1. Откройте **Vial**
   2. В верхнем меню перейдите во вкладку **Layouts**
   3. Выберите нужное значение DPI в раскрывающемся меню напротив пункта DPI
 
 ![image](/images/hpd/hpd_dpi.gif)  
 </details>
+
 
 
 ## Обновление прошивки
