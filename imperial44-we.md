@@ -31,7 +31,10 @@ tags: ["docs", "imperial44-we"]
 </details>
 
 ## Настройка клавиатуры  
-Пожалуйста перейдите в [статью "Настройка клавиатуры в ZMK keymap-editor"](https://journey.ergohaven.xyz/pages/docs/keymap-editor/)
+Пожалуйста перейдите в статью [Настройка клавиатуры в ZMK keymap-editor](https://journey.ergohaven.xyz/pages/docs/keymap-editor/)
+
+## Режим Ruen  
+Пожалуйста перейдите в статью [RuEn раскладка для беспроводных клавиатур](https://journey.ergohaven.xyz/pages/docs/zmk-ruen/)
 
 ## Обновление прошивки
 
