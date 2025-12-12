@@ -1,5 +1,5 @@
 ---
-title: "Macropad"
+title: "Macropad (M4CR0pad)"
 tags: ["docs", "macropad"]
 ---
 
