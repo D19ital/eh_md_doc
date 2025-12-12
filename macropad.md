@@ -1,9 +1,11 @@
 ---
-title: "M4CR0Pad"
+title: "Macropad"
 tags: ["docs", "macropad"]
 ---
 
 ![image](/images/layouts/macropad_ru.png)  
+
+**Macropad** - проводной программируемый механический макропад с экодером и хотсвап-системой для быстрой замены MX-совместимых свитчей
 
 ## Устройство макропада
 <details>
@@ -22,7 +24,7 @@ tags: ["docs", "macropad"]
 </details>
 
 <details>
-  <summary>Macropad v2</summary>
+  <summary>M4ACR0pad v2</summary>
 
 ![image](/images/macropad/macropad_v2.png)
 
@@ -42,6 +44,22 @@ tags: ["docs", "macropad"]
 
 ## Настройка макропада  
 Пожалуйста перейдите в [статью о программе Vial](/pages/docs/vial) 
+
+<details>
+  <summary>Macropad v3 - настройка RGB подсветки в Vial</summary>
+
+В **Vial** во вкладке **Lighting** можно кастомизировать подсветку клавиш изменяя вид, цвет, яркость и скорость анимации
+>На **M4CR0pad v1 и v2 RGB подсветка отсутствует!**
+
+![image](/images/macropad/macropad_v3_rgb.gif)
+
+- **RGB Effect** - позволяет выбрать различные анимации либо статичный цвет
+- **RGB Color** - настройка цвета подсветки
+- **RGB Brighttless** - изменение яркости подсветки
+- **RGB Speed** - изменение скорости анимации подсветки
+
+После настройки всех параметров RGB подсветки нажмите **Save** в нижнем правом углу Vial, чтобы сохранить все изменения
+</details>
 
 ## Обновление прошивки через bootmagic  
 ### Подготовка  
