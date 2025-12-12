@@ -20,7 +20,7 @@ tags: ["docs", "macropad"]
 3. силиконовые ножки
 4. вспомогательное окно для разбора корпуса макропада
 5. USB-C разъем
-6. интегрированое кольцо MagSafe для [УСН](https://ru.ergohaven.xyz/shop/tproduct/767494027-131631361022-universalnaya-sistema-naklona-predzakaz)
+6. встроенное кольцо MagSafe для [УСН](https://ru.ergohaven.xyz/shop/tproduct/767494027-131631361022-universalnaya-sistema-naklona-predzakaz)
 7. 240*280 IPS дисплей
 8. энкодер
 </details>
