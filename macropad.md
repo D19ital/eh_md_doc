@@ -26,7 +26,7 @@ tags: ["docs", "macropad"]
 </details>
 
 <details>
-  <summary>M4ACR0pad v2</summary>
+  <summary>M4CR0pad v2</summary>
 
 ![image](/images/macropad/macropad_v2.png)
 
