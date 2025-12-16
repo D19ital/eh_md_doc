@@ -15,8 +15,8 @@ tags: ["docs", "macropad"]
 
 ![image](/images/macropad/macropad_v3.png)
 
-1. кнопка BOOT
-2. кнопка RESET
+1. кнопка RESET
+2. кнопка BOOT
 3. силиконовые ножки
 4. вспомогательное окно для разбора корпуса макропада
 5. USB-C разъем
