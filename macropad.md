@@ -48,7 +48,7 @@ tags: ["docs", "macropad"]
 Пожалуйста перейдите в [статью о программе Vial](/pages/docs/vial) 
 
 <details>
-  <summary>Macropad v3 - настройка RGB подсветки в Vial</summary>
+  <summary>M4CR0pad v3 - настройка RGB подсветки в Vial</summary>
 
 В **Vial** во вкладке **Lighting** можно кастомизировать подсветку клавиш изменяя вид, цвет, яркость и скорость анимации
 >На **M4CR0pad v1 и v2 RGB подсветка отсутствует!**
