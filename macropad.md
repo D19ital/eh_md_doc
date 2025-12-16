@@ -1,17 +1,17 @@
 ---
-title: "Macropad (M4CR0pad)"
+title: "M4CR0pad"
 tags: ["docs", "macropad"]
 ---
 
 ![image](/images/layouts/macropad_ru.png)  
 
-**Macropad** - проводной программируемый механический макропад с энкодером и хотсвап-системой для быстрой замены MX-совместимых свитчей
+**M4CR0pad** - проводной программируемый механический макропад с энкодером и хотсвап-системой для быстрой замены MX-совместимых свитчей
 
 >Начиная с **v3** макропад имеет встроенное магнитное кольцо для крепления к [Универсальной Системе Наклона (УСН)](https://ru.ergohaven.xyz/shop/tproduct/767494027-131631361022-universalnaya-sistema-naklona-predzakaz)
 
 ## Устройство макропада
 <details>
-  <summary>Macropad v3</summary>
+  <summary>M4CR0pad v3</summary>
 
 ![image](/images/macropad/macropad_v3.png)
 
@@ -66,7 +66,7 @@ tags: ["docs", "macropad"]
 ## Обновление прошивки через bootmagic  
 ### Подготовка  
 * Скачайте последнюю версию прошивки для вашей версии макропада:
-    - [Macropad v3](https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_macropad_v3.uf2)
+    - [M4CR0pad v3](https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_macropad_v3.uf2)
     - [M4CR0Pad v2](https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_macropad_v2.uf2)
     - [M4CR0Pad v1](https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_macropad_v1.uf2)
 >Версия прошивки должна соответствовать версии макропада, иначе получите некорректную работу макропада
